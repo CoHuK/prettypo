@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="prettypo",
-    version="0.0.1",
+    version="0.0.2",
     author="CoHuK",
     author_email="prettypo@strongin.qa",
     description="Pretty Page Object Generator",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cohuk/prettypo",
+    url="https://github.com/CoHuK/prettypo",
     packages=setuptools.find_packages(where='prettypo'),
     classifiers=[
         "Programming Language :: Python :: 3",
