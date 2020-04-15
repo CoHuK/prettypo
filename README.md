@@ -19,7 +19,7 @@ def test_page(driver):
     page.login = 'SuperUser'
     page.ok()
     wait_for_element(page.welcome_message_element())
-    assert page.welcome_message == "Welcom SuperUser"
+    assert page.welcome_message == "Welcome SuperUser"
 ```
 
 
