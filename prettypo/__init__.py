@@ -1,1 +1,1 @@
-from PrettyPageObject import PrettyPageObject
+from .PrettyPageObject import PrettyPageObject
