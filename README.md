@@ -1,4 +1,4 @@
-# Pretty Page Object Generator
+# Python Pretty Page Object Generator
 A simple tool to make your page objects pretty and save some time for standard methods implementation.
 ```python
 from prettypo import PrettyPageObject
