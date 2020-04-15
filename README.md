@@ -25,7 +25,9 @@ def test_page(driver):
 
 ## Usage
 Install by pip
+
 `pip install prettypo`
+
 And inherit your Base Page class from PrettyPageObject and that's all!
 
 ## Features
